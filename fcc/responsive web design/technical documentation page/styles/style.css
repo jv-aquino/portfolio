@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Slab', serif;
+    list-style: none;
+    text-decoration: none;
+}
+body {
+    background-color: rgb(224, 224, 255);
+    overflow-x: hidden;
+}
+#navbar {
+    position: fixed;
+    left: 0%;
+    top: 0%;
+    height: 100vh;
+    width: 25%;
+    display: block;
+}
+#navbar li {
+    border-top: rgb(138, 43, 226) 1px solid;
+    padding: 8px 0px 8px 8px;
+    font-size: 20px;
+}
+#navbar ul {
+    border-bottom: rgb(138, 43, 226) 1px solid;
+    overflow-y: auto; overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+}
+#navbar header {
+    text-align: center;
+    padding: 15px 0px;
+    font-size: 24px;
+    color: #23b110;
+    height: fit-content;
+    width: 100%;
+}
+a {
+    color: #23b110;
+}
+#main-doc {
+    position: absolute;
+    left: 25%;
+    top: 0%;
+    width: 70%;
+    border-left: #23b110 2px solid;
+    height: fit-content;
+    padding-bottom: 20px;
+    text-align: left;
+}
+.main-section {
+    margin: 11px 0px 0px 15px; 
+}
+.main-section header {
+    font-size: 27px;
+}
+.main-section p {
+    margin: 10px auto;
+    font-size: 17px;
+}
+code {
+    background-color: #282a36;
+    color: white;
+    padding: 0px 2px;
+}
+.main-section li {
+    margin-left: 20px;
+    background-color: wheat;
+    width: fit-content;
+    padding: 5px;
+    margin: 7px 0px 7px 5px;
+}
+@media screen and (max-width: 1024px) {
+    body {
+        text-align: center;
+    }
+    #navbar {
+        margin: 0px auto;
+        position: unset;
+        width: 90%;
+        height: fit-content;
+    }
+    #navbar ul {
+        border: rgb(138, 43, 226) 1px solid;
+        height: fit-content;
+    }
+    #main-doc {
+        border: none;
+        position: unset;
+        width: 90%;
+        margin: 0px auto;
+    }
+    #li-pre {
+        width: fit-content;
+        text-align: left;
+        justify-content: center;
+        position: unset;
+    }
+    .main-section header {
+        text-align: center;
+    }
+}

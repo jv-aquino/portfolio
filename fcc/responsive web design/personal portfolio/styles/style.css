@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Slab', serif;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+}
+#welcome-section {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(233, 233, 233);
+}
+#navbar {
+    display: flex;
+    background-color: rgba(22, 22, 22, 0.95);
+    color: rgb(233, 233, 233);
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    height: fit-content;
+}
+#navbar ul {
+    margin: 20px;
+}
+#navbar li {
+    display: inline-block;
+    margin: 4px auto;
+}
+#navbar a {
+    padding: 4px 14px;
+    font-size: 21px;
+    color: rgb(233, 233, 233);
+}
+#navbar h1 {
+    font-family: 'Courgette', cursive;
+    cursor: pointer;
+}
+#profile-link {
+    margin-left: 10px;
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+#navbar a:hover,
+footer a:hover {
+    cursor: pointer;
+    animation: nav-bg 0.3s;
+    animation-fill-mode: forwards;
+}
+h1 {
+    font-size: 60px;
+}
+#welcome-section h1:hover, 
+#welcome-section h2:hover, 
+#welcome-section h3:hover,
+.project-tile a:hover {
+    animation: change-letter 0.35s;
+    animation-fill-mode: forwards;
+    cursor: default;
+}
+.project-tile a:hover {
+    cursor: pointer;
+}
+h2 {
+    font-size: 30px;
+}
+h3 {
+    font-size: 20px;
+}
+#wecolme-section h3:hover {
+    cursor: pointer;
+}
+#projects {
+    background-color: rgb(22, 22, 22);
+    padding-top: 95px;
+    color: rgb(233, 233, 233);
+}
+#projects h1 {
+    margin-bottom: 40px;
+}
+#display-projects {
+    width: 100%;
+    padding-bottom: 40px;
+    margin: auto;
+    display: block;
+}
+.project-tile p {
+    color: rgb(233, 233, 233);
+}
+.project-tile {
+    border: rgb(233, 233, 233) 2px solid;
+    border-radius: 5px;
+    width: 30%;
+    margin: 10px;
+    display: inline-block;
+}
+.project-tile img {
+    width: 100%;
+    height: auto;
+}
+footer {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(80, 75, 83);
+    color: rgb(233, 233, 233);
+}
+footer a {
+    color: rgb(226, 125, 10);
+    padding: 4px;
+    margin: 5px auto;
+}
+@keyframes change-letter {
+    0% {}
+    100% {color: rgb(226, 125, 10);}
+}
+@keyframes nav-bg {
+    0%{border-radius: 10px;}
+    100% {
+        border-radius: 10px;
+        color: rgb(22, 22, 22);
+        background-color: rgb(233, 233, 233);
+    }
+}
+@media screen and (max-width: 800px) {
+    #display-projects {
+        display: block;
+    }
+    .project-tile {
+        display: block;
+        margin: 15px auto;
+        width: 80%;
+    }
+}

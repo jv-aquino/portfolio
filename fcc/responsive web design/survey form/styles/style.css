@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather');
+body {
+  text-align: center;
+  background-color: #EB4299;
+}
+
+* {
+  font-family: 'Merriweather', serif;
+}
+
+#title {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 17px 0px 0px 0px;
+}
+#description {
+  margin: 10px 0px 17px 0px;
+}
+
+#survey-form {
+  background-color: #42EB94;
+  width: 800px;
+  max-width: 100%;
+  margin: auto;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  text-align: left;
+  font-size: 20px;
+  box-shadow: 8px 8px 7px rgba(0, 0, 0, 0.6);
+}
+fieldset {
+	border: none;
+  padding: 0;
+  margin: 0;
+}
+
+#name-div, #email-div, #age-div, #dropdown-div, #radio-div, #checkbox-div, #textarea-div {
+  padding: 12px 0px 0px 18px;
+}
+#name, #email {
+  width: 95%;
+  height: 35px;
+  font-size: 18px;
+  border-radius: 8px;
+  border: none;
+  padding-left: 10px;
+}
+input:focus, textarea:focus, #dropdown:focus {
+  outline: none;
+}
+::placeholder {
+  font-size: 17px;
+}
+input:focus::placeholder, textarea:focus::placeholder {
+  opacity: 0;
+}
+#name-label, #email-label, #number-label, #dropdown-label, #comments-label {
+  margin-bottom: 7px;
+  display: inline-block;
+}
+
+#number {
+  width: 10%;
+  height: 40px;
+  border-radius: 8px;
+  font-size: 20px;
+  border: none;
+  padding-left: 10px;
+}
+@media screen and (max-width: 750px) {
+  #number {
+    width: 18%;
+  }
+}
+
+#dropdown {
+  width: fit-content;
+  height: 35px;
+  font-size: 18px;
+  border: none;
+}
+#name:hover, #name:focus, #email:hover, #email:focus, #number:hover, #number:focus, #comments:hover, #comments:focus, #dropdown:hover {
+  animation-name: change-dropdown;
+  animation-duration: 0.6s;
+  animation-fill-mode: forwards;
+}
+#name:hover::placeholder, #email:hover::placeholder, #number:hover::placeholder, #comments:hover::placeholder {
+  color: white;
+}
+@keyframes change-dropdown {
+  0% {
+    background-color: white;
+  }
+  100% {
+    background-color: #EB4299;
+    color: white;
+  }
+}
+
+/* The code below was based on dcode's youtube video, link: https://www.youtube.com/watch?v=5K7JefKDa4s */
+.radio-input-c {
+  margin-top: 3px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+}
+.radio-input {
+  display: none;
+}
+.radio-radio {
+  height: 20px; width: 20px;
+  border: 2px solid white;
+  border-radius: 50%;
+  margin-right: 7px;
+  box-sizing: border-box;
+  padding: 2px;
+}
+.radio-radio::after {
+  content: "";
+  width: 100%; height: 100%;
+  display: block;
+  border-radius: 50%;
+  background-color: #EB4299;
+  transform: scale(0);
+  transition: transform 200ms;
+}
+.radio-input:checked + .radio-radio::after {
+  transform: scale(1);
+}
+
+.checkbox-input-c {
+  margin-top: 4px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+}
+.checkbox-input {
+  display: none;
+}
+.checkbox-checkbox {
+  height: 19px; width: 19px;
+  border: 2px solid white;
+  margin-right: 7px;
+  box-sizing: border-box;
+  padding: 2px;
+}
+.checkbox-checkbox::after {
+  content: "";
+  width: 100%; height: 100%;
+  display: block;
+  background-color: #EB4299;
+  transform: scale(0);
+  transition: transform 200ms;
+}
+.checkbox-input:checked + .checkbox-checkbox::after {
+  transform: scale(1);
+}
+/* The code above was based on dcode's youtube video, link: https://www.youtube.com/watch?v=5K7JefKDa4s */
+
+#comments {
+  width: 95%;
+  height: 90px;
+  font-size: 15px;
+  padding: 3px 0px 0px 10px;
+  border: none;
+  border-radius: 8px;
+  resize: none;
+}
+
+#submit {
+  width: 85%;
+  height: 50px;
+  margin: auto;
+  padding: 0px;
+  font-size: 22px;
+  background-color: aliceblue;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+#submit:hover {
+  animation-name: change-color;
+  animation-duration: 0.7s;
+  animation-fill-mode: forwards;
+  cursor: pointer;
+}
+#submit-div {
+  text-align: center;
+  padding: 20px 0px;
+}
+
+@keyframes change-color {
+  0% {
+    background-color: white;
+  }
+  100% {
+    background-color: #EB4299;
+    color: #42EB94;
+  }
+}

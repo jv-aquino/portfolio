@@ -1,0 +1,32 @@
+#titulo {
+    background: url(../images/descobrimento.jpg)
+    no-repeat fixed;
+    background-size: cover;
+}
+#integrantes {
+    display: flex;
+    width: 100%;
+    text-align: left;
+}
+#integrantes p {
+    width: 35%;
+}
+@media screen and (max-width: 1024px) {
+    header {
+        font-size: 15vw;
+    }
+}
+@media all and (max-width: 900px) {
+    #integrantes {
+        display: unset;
+        text-align: justify;
+    }
+    #integrantes p {
+        float: none;
+        width: 90vw;
+        margin: 0 auto;
+    }
+    #lista {
+        padding-top: 20px;
+    }
+}

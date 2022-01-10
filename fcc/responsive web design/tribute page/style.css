@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+body {
+    background: #4245EB;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+#title {
+    margin-top: 22px;
+    margin-bottom: 0px;
+    color:rgb(0, 0, 0);
+    font-size: 40px;
+}
+/* Section containing paragraphs speaking of Hawking */
+#tribute-info {
+    background-color: rgb(235, 232, 67);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    margin: auto;
+    padding-top: 2px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    max-width: 80%;
+    border-radius: 8px;
+    box-shadow: 8px 8px 7px rgba(0, 0, 0, 0.6);
+}
+#img-div {
+   text-align: center;
+   display: block;
+   width: 100%;
+}
+#img-caption {
+  font-size: 17px;
+}
+#image {
+    height: auto;
+    width: 450px;
+    max-width: 70%;
+    padding: 12px;
+    margin: auto;
+    display: block;
+}
+#tribute-link {
+  color: #4245EB;
+  text-decoration: none;
+}
+#tribute-link:hover {
+  color: purple;
+  text-decoration: none;
+}

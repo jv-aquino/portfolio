@@ -1,0 +1,74 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="Survey Form">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="styles/style.css">
+        <title>Survey Form</title>
+    </head>
+    <body>
+        <header><h1 id="title">ABCD Store Survey Form</h1></header>
+        <em><p id="description">Help us improve our store by answering this quick survey!</p></em>
+        <form id="survey-form" action="">
+
+          <div id="name-div">
+          <label for="name" id="name-label">Name:</label><br>
+          <input type="text" name="name" id="name" placeholder="Name" required><br>
+          </div>
+
+          <div id="email-div">
+          <label for="email" id="email-label">Email:</label><br>
+          <input type="email" name="email" id="email" placeholder="Email" required><br>
+          </div>
+
+          <div id="age-div">
+          <label for="age" id="number-label">Age (optional):</label><br>
+          <input type="number" name="age" id="number" min="16" max="100" placeholder="Age"><br>
+          </div>
+          
+          <div id="dropdown-div">
+          <label id="dropdown-label" for="dropdown">What are our best products?</label><br>
+          <select name="product" id="dropdown">
+              <option value="shoes">Shoes</option>
+              <option value="shirts">Shirts</option>
+              <option value="shorts">Shorts</option>
+              <option value="socks">Socks</option>
+              <option value="skirts">Skirts</option>
+              <option value="socks">Socks</option>
+              <option value="hats">Hats</option>
+              <option value="underwear">Underwear</option>
+          </select><br>
+          </div>
+
+
+          <fieldset id="radio-div">
+            <label for="satisfaction">How do you fell about our products?</label><br>
+          <!-- The code below was based on dcode's youtube video, link: https://www.youtube.com/watch?v=5K7JefKDa4s -->
+            <label for="satisfied" class="radio-input-c"><input name="satisfaction" id="satisfied" type="radio" value="satisfied" class="radio-input" checked><div class="radio-radio"></div>Satisfied</label><br>
+           <label for="neutral" class="radio-input-c"><input name="satisfaction" id="neutral" type="radio" value="neutral" class="radio-input"><div class="radio-radio"></div>Neutral</label><br>
+            <label for="unsatisfied" class="radio-input-c"><input name="satisfaction" id="unsatisfied" type="radio" value="unsatisfied" class="radio-input"><div class="radio-radio"></div>Unsatisfied</label>
+          <!-- The code above was based on dcode's youtube video, link: https://www.youtube.com/watch?v=5K7JefKDa4s -->
+          </fieldset>
+         
+          <fieldset id="checkbox-div">
+            <label for="services">What should we improve?</label><br>
+          <!-- The code below was based on dcode's youtube video, link: https://www.youtube.com/watch?v=5K7JefKDa4s -->
+            <label for="shipping" class="checkbox-input-c"><input name="services" id="shipping" type="checkbox" value="shipping" class="checkbox-input"><div style="position: relative; top: 3px;" class="checkbox-checkbox"></div></label>Shipping</label><br>
+            <label for="customer-service" class="checkbox-input-c"><input name="services" id="customer-service" type="checkbox" value="customer-service" class="checkbox-input"><div class="checkbox-checkbox"></div>Customer service</label><br>
+            <label for="products" class="checkbox-input-c"><input name="services" id="products" type="checkbox" value="products" class="checkbox-input"><div class="checkbox-checkbox"></div>Products</label><br>
+            <label for="site" class="checkbox-input-c"><input name="site" id="site" type="checkbox" value="site" class="checkbox-input"><div class="checkbox-checkbox"></div>Site</label><br>
+            <label for="marketing" class="checkbox-input-c"><input name="services" id="marketing" type="checkbox" value="marketing" class="checkbox-input"><div class="checkbox-checkbox"></div>Marketing</label>
+          <!-- The code above was based on dcode's youtube video, link: https://www.youtube.com/watch?v=5K7JefKDa4s -->
+          </fieldset>
+
+          <div id="textarea-div">
+          <label id="comments-label" for="comments">Feel free to leave comments and/or suggestions below</label><br>
+          <textarea id="comments" name="comments" placeholder="Comments and Suggestions"></textarea><br>
+          </div>
+          
+          <div id="submit-div">
+          <input id="submit" type="submit" value="Submit">
+          </div>
+        </form>
+    </body>
+</html>

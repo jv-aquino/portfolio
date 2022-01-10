@@ -1,0 +1,46 @@
+#titulo {
+    background: url(../images/fonte.jfif)
+    no-repeat fixed;
+    background-size: cover;
+}
+@media screen and (min-width: 900px) {
+    main {
+        display: grid;
+        grid-template-columns: 45% 45%;
+        grid-template-rows: repeat(1, fit-content);
+        row-gap: 20px;
+        margin: 0 5%;
+        text-align: left;
+    }
+    #p1 {
+        grid-row: 1 / 1;
+        grid-column: 1 / 1;
+        padding-right: 20px;
+    }
+    #p2 {
+        grid-row: 1 / 1;
+        grid-column: 2 / 2;
+        border-left: #001313 3px solid;
+        padding-left: 20px;
+    }
+}
+#p2 {
+    word-break: break-all;
+}
+main {
+    padding-top: 6vh;
+    justify-content: center;
+}
+@media screen and (max-width: 1024px) {
+header {
+    font-size: 20vw;
+}
+main {
+    width: 90%;
+    margin: auto;
+    text-align: left;
+}
+main p {
+    margin: 20px auto;
+}
+}
