@@ -1,0 +1,34 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(10, 11, 27);
+}
+
+.quemsomos, .parceiros, .servicos, footer {
+    background-color: rgb(190, 30, 62);
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.parceiros {
+    background-color: rgb(24, 170, 80);
+}
+
+.servicos {
+    background-color: rgb(189, 26, 162);
+}
+
+.margem {
+    margin-top: 30px;
+}
+
+h4 {
+    font-size: 22px;
+}
+
+footer {
+    color: white;
+    background-color: rgb(10, 11, 27);
+}
