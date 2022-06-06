@@ -1,21 +1,25 @@
-# Portfólio de Projetos 💻
-### Este porfólio foi criado para que eu acompanhe minha evolução como desenvolvedor e tem um intuito educacional 📘
-### Abaixo seguem os projetos, listados com base nos cursos que fiz durante minha jornada como dev
+# Portfolio of projects 💻
+### This portfolio was created to follow my evolution as a developer 📘
+### Below are the projects, listed based on the courses I have taken during my dev journey.
 
-> Os projetos estão listados de forma cronológica (do mais antigo ao mais recente) ⌛
+> The projects are listed chronologically (oldest to newest) ⌛
 
-> *pi = projetos independentes feitos com o conhecimento de certo curso
+> *ind - independent projects 
 
-> *pr - projetos mais relevantes
+> *rp - most relevant projects
 
-## "Responsive Web Design" do FreeCodeCamp
-- <a href="https://github.com/jv-aquino/portfolio/tree/main/fcc/responsive%20web%20design/personal%20portfolio" target="_blank">Tribute Page 🦼</a> - <a href="https://codepen.io/jv-aquino/full/NWjdZbz" target="_blank">visualizar</a>
-- <a href="https://github.com/jv-aquino/portfolio/tree/main/fcc/responsive%20web%20design/survey%20form" target="_blank">Survey Form ✔️</a> - <a href="https://codepen.io/jv-aquino/full/yLbgdEd" target="_blank">visualizar</a>
-- <a href="https://github.com/jv-aquino/pokemon-wiki" target="_blank">Pokémon Wiki 📑</a> - <a href="https://jv-aquino.github.io/pokemon-wiki/" target="_blank">visualizar</a> ***pi**
-- <a href="https://github.com/jv-aquino/portfolio/tree/main/fcc/responsive%20web%20design/product%20landing%20page" target="_blank">Product Landing Page 🌳</a> - <a href="https://codepen.io/jv-aquino/full/WNjyvvr" target="_blank">visualizar</a> ***pr**
-- <a href="https://github.com/jv-aquino/portfolio/tree/main/fcc/responsive%20web%20design/technical%20documentation%20page" target="_blank">Technical Documentation Page 🧾</a> - <a href="https://codepen.io/jv-aquino/full/YzVBzQa" target="_blank">visualizar</a>
-- <a href="https://github.com/jv-aquino/portfolio/tree/main/fcc/responsive%20web%20design/personal%20portfolio" target="_blank">Personal Portfolio 👨‍💼</a> - <a href="https://codepen.io/jv-aquino/full/vYZYWjM" target="_blank">visualizar</a>
-- <a href="https://github.com/jv-aquino/quinhentismo" target="_blank">Quinhentismo 📝</a> - <a href="https://jv-aquino.github.io/quinhentismo/" target="_blank">visualizar</a> ***pi** ***pr**
+## Responsive Web Design, FreeCodeCamp - started: jul 2021
+- [Tribute Page 🦼](https://github.com/jv-aquino/Tribute-Page) - [view](https://jv-aquino.github.io/Tribute-Page/)
+- [Survey Form ✔️](https://github.com/jv-aquino/Survey-Form) - [view](https://jv-aquino.github.io/Survey-Form/)
+- [Pokémon Wiki 📑](https://github.com/jv-aquino/pokemon-wiki) - [view](https://jv-aquino.github.io/pokemon-wiki/) ***ind**
+- [Product Landing Page 🌳](https://github.com/jv-aquino/Product-Landing-Page) - [view](https://jv-aquino.github.io/Product-Landing-Page/) ***rp**
+- [Technical Documentation 🧾](https://github.com/jv-aquino/Technical-Documentation-Page) - [view](https://jv-aquino.github.io/Technical-Documentation-Page/)
+- [Personal Portfolio 👨‍💼](https://github.com/jv-aquino/Personal-Portfolio) - [view](https://jv-aquino.github.io/Personal-Portfolio/)
+- [Quinhentismo 📝](https://github.com/jv-aquino/quinhentismo) - [view](https://jv-aquino.github.io/quinhentismo/) ***ind** ***rp**
 
-## "Inter Frontend Developer" da DIO
--
+## Foundation, The Odin Project - started: jan 2022
+- [Recipes 👩‍🍳](https://github.com/jv-aquino/odin-recipes) - [view](https://jv-aquino.github.io/odin-recipes/)
+- [Pop Sneakers 👟](https://github.com/jv-aquino/Odin-Landing-Page) - [view](https://jv-aquino.github.io/Odin-Landing-Page/)
+- [Rock Paper Scissors ✂](https://github.com/jv-aquino/rock-paper-scissors) - [view](https://jv-aquino.github.io/rock-paper-scissors/) 
+- [Etch-a-Sketch ✏](https://github.com/jv-aquino/etch-a-sketch) - [view](https://jv-aquino.github.io/etch-a-sketch/)
+- [Calculator ➕➖](https://github.com/jv-aquino/Calculator) - [view](https://jv-aquino.github.io/Calculator/)
