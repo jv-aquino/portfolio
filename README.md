@@ -24,3 +24,4 @@
 - [Databases 👨‍💻](https://github.com/jv-aquino/Banco-de-Dados) - [view](https://jv-aquino.github.io/Banco-de-Dados/) ***ind**
 - [Etch-a-Sketch ✏](https://github.com/jv-aquino/etch-a-sketch) - [view](https://jv-aquino.github.io/etch-a-sketch/) ***rp**
 - [Calculator ➕➖](https://github.com/jv-aquino/Calculator) - [view](https://jv-aquino.github.io/Calculator/) ***rp**
+- [Sign-up Form 📝](https://github.com/jv-aquino/Sign-up-Form) - [view](https://jv-aquino.github.io/Sign-up-Form/)
