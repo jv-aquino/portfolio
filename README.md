@@ -24,4 +24,7 @@
 - [Databases 👨‍💻](https://github.com/jv-aquino/Banco-de-Dados) - [view](https://jv-aquino.github.io/Banco-de-Dados/) ***ind**
 - [Etch-a-Sketch ✏](https://github.com/jv-aquino/etch-a-sketch) - [view](https://jv-aquino.github.io/etch-a-sketch/) ***rp**
 - [Calculator ➕➖](https://github.com/jv-aquino/Calculator) - [view](https://jv-aquino.github.io/Calculator/) ***rp**
+
+## Full Stack Javascript, The Odin Project - started: jun 2022
 - [Sign-up Form 📝](https://github.com/jv-aquino/Sign-up-Form) - [view](https://jv-aquino.github.io/Sign-up-Form/)
+- [Admin Dashboard 🦜](https://github.com/jv-aquino/Admin-Dashboard) - [view](https://jv-aquino.github.io/Admin-Dashboard/)
