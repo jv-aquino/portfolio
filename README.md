@@ -30,3 +30,4 @@
 - [Admin Dashboard 🦜](https://github.com/jv-aquino/Admin-Dashboard) - [view](https://jv-aquino.github.io/Admin-Dashboard/)
 - [Library 📚](https://github.com/jv-aquino/Library) - [view](https://jv-aquino.github.io/Library/)
 - [Tic-Tac-Toe ❌⭕](https://github.com/jv-aquino/Tic-Tac-Toe) - [view](https://jv-aquino.github.io/Tic-Tac-Toe/)
+- [Restaurant Page 🍽](https://github.com/jv-aquino/Restaurant-Page/) - [view](https://jv-aquino.github.io/Restaurant-Page/dist/)
