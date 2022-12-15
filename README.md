@@ -1,5 +1,5 @@
 # Portfolio of projects 💻
-### This portfolio was created to follow my evolution as a web developer 📘. These projects are the reason for all my learning, and they have greatly improved my skills in HTML, CSS, JavaScript and Git, and I am extremely grateful to FreeCodeCamp and The Odin Project for teaching me so much for free. 👨‍💻
+### This portfolio was created to follow my evolution as a web dev 📘. These projects taught me a lot, and they have greatly improved my skills in HTML, CSS / Tailwind, JavaScript and Git, and I am extremely grateful to FreeCodeCamp and The Odin Project for teaching me so much for free. 👨‍💻
 ### Below are the projects, listed based on the courses I have taken during my dev journey.
 
 > The projects are listed chronologically (oldest to newest) ⌛
@@ -28,8 +28,11 @@
 ## Full Stack Javascript, The Odin Project - started: jun 2022
 - [Sign-up Form 📝](https://github.com/jv-aquino/Sign-up-Form) - [view](https://jv-aquino.github.io/Sign-up-Form/)
 - [Admin Dashboard 🦜](https://github.com/jv-aquino/Admin-Dashboard) - [view](https://jv-aquino.github.io/Admin-Dashboard/)
-- [Library 📚](https://github.com/jv-aquino/Library) - [view](https://jv-aquino.github.io/Library/)
+- [Library 📚](https://github.com/jv-aquino/Library) - [view](https://jv-aquino.github.io/Library/) ***rp**
 - [Tic-Tac-Toe ❌⭕](https://github.com/jv-aquino/Tic-Tac-Toe) - [view](https://jv-aquino.github.io/Tic-Tac-Toe/)
 - [Restaurant Page 🍽](https://github.com/jv-aquino/Restaurant-Page/) - [view](https://jv-aquino.github.io/Restaurant-Page/dist/)
-- [Todo List 📆](https://github.com/jv-aquino/Todo-List) - [view](https://jv-aquino.github.io/Todo-List/)
-- [Arduino JS 🤖](https://github.com/jv-aquino/Arduino-Javascript) - [view](https://jv-aquino.github.io/Arduino-Javascript/)
+- [Todo List 📆](https://github.com/jv-aquino/Todo-List) - [view](https://jv-aquino.github.io/Todo-List/) ***rp**
+- [Arduino JS 🤖](https://github.com/jv-aquino/Arduino-Javascript) - [view](https://jv-aquino.github.io/Arduino-Javascript/) ***ind** ***rp**
+
+## FEG Internship - started: nov 2022
+- [Transparência de Compras 🛍](https://github.com/jv-aquino/Transparencia-Compras) - [view](https://jv-aquino.github.io/Transparencia-Compras/) ***rp**
