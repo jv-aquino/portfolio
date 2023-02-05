@@ -1,7 +1,20 @@
 # Portfolio of projects 💻
-### This portfolio was created to follow my evolution as a web dev 📘. These projects taught me a lot, and they have greatly improved my skills in HTML, CSS / Tailwind, JavaScript and Git, and I am extremely grateful to FreeCodeCamp and The Odin Project for teaching me so much for free. 👨‍💻
+### This portfolio was created to follow my evolution as a web dev 📘. These projects taught me a lot, and they have greatly improved my web dev skills, and I am extremely grateful to FreeCodeCamp and The Odin Project for teaching me so much for free. 👨‍💻
 ### Below are the projects, listed based on the courses I have taken during my dev journey.
 
+## Tech stack
+- ### **<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="20" width="20"> HTML**
+
+- ### **<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="20" width="20"> CSS** & **<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="20" width="20"> Tailwind**
+
+- ### **<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="20" width="20"> Javascript**, **<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" height="20" width="20"> Webpack** & **<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="20" width="20"> React**
+
+- ### **<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="20" width="20"> NPM**
+- ### **<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="20" width="20"> NodeJS**
+
+- ### **<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="20" width="20"> Git & <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="20" width="20"> Github**
+
+# Projects
 > The projects are listed chronologically (oldest to newest) ⌛
 
 > *ind - independent projects 
