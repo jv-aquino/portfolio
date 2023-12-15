@@ -21,7 +21,7 @@
 
 > *rp - most relevant projects
 
-## Responsive Web Design, FreeCodeCamp - started: jul 2021
+## Responsive Web Design, FreeCodeCamp - jul 2021 - dec 2021
 - [Tribute Page 🦼](https://github.com/jv-aquino/Tribute-Page) - [view](https://jv-aquino.github.io/Tribute-Page/)
 - [Survey Form ✔️](https://github.com/jv-aquino/Survey-Form) - [view](https://jv-aquino.github.io/Survey-Form/)
 - [Pokémon Wiki 📑](https://github.com/jv-aquino/pokemon-wiki) - [view](https://jv-aquino.github.io/pokemon-wiki/) ***ind**
@@ -30,7 +30,7 @@
 - [Personal Portfolio 👨‍💼](https://github.com/jv-aquino/Personal-Portfolio) - [view](https://jv-aquino.github.io/Personal-Portfolio/)
 - [Quinhentismo 📝](https://github.com/jv-aquino/quinhentismo) - [view](https://jv-aquino.github.io/quinhentismo/) ***ind** ***rp**
 
-## Foundation, The Odin Project - started: jan 2022
+## Foundation, The Odin Project - jan 2022 - jun 2022
 - [Recipes 👩‍🍳](https://github.com/jv-aquino/odin-recipes) - [view](https://jv-aquino.github.io/odin-recipes/)
 - [Pop Sneakers 👟](https://github.com/jv-aquino/Odin-Landing-Page) - [view](https://jv-aquino.github.io/Odin-Landing-Page/)
 - [Rock Paper Scissors ✂](https://github.com/jv-aquino/rock-paper-scissors) - [view](https://jv-aquino.github.io/rock-paper-scissors/) 
@@ -47,5 +47,8 @@
 - [Todo List 📆](https://github.com/jv-aquino/Todo-List) - [view](https://jv-aquino.github.io/Todo-List/) ***rp**
 - [Arduino JS 🤖](https://github.com/jv-aquino/Arduino-Javascript) - [view](https://jv-aquino.github.io/Arduino-Javascript/) ***ind** ***rp**
 
-## FEG Internship - started: nov 2022
-- [Transparência de Compras 🛍](https://github.com/jv-aquino/Transparencia-Compras) - [view](https://jv-aquino.github.io/Transparencia-Compras/) ***rp**
+## FEG Internship - nov 2022 - oct 2023
+- [Transparência de Compras 🛍](https://github.com/jv-aquino/Transparencia-Compras) - [view](https://transparencia-compras.vercel.app/) ***rp**
+- [STMA Interno 🖼️](https://github.com/jv-aquino/stma-interno) - [view](https://stma-interno.vercel.app/) ***rp**
+- [Gerenciador de Contratos 🏬](https://github.com/jv-aquino/gerenciador-contratos) - [view](https://gerenciador-contratos.vercel.app/) ***rp**
+- [Painel STMA 📈](https://github.com/jv-aquino/painel-stma) - [view](https://painel-stma.vercel.app/) ***rp**
