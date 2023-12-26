@@ -49,11 +49,11 @@
 
 ## FEG Internship - nov 2022 - oct 2023
 - [Transparência de Compras 🛍](https://github.com/jv-aquino/Transparencia-Compras) - [view](https://transparencia-compras.vercel.app/) ***rp**
-- [STMA Interno 🖼️](https://github.com/jv-aquino/stma-interno) - [view](https://stma-interno.vercel.app/) ***rp**
+- [STMA Interno 🖼️](https://github.com/jv-aquino/stma-interno) - [view](https://stma-interno.vercel.app/)
 - [Gerenciador de Contratos 🏬](https://github.com/jv-aquino/gerenciador-contratos) - [view](https://gerenciador-contratos.vercel.app/) ***rp**
 - [Painel STMA 📈](https://github.com/jv-aquino/painel-stma) - [view](https://painel-stma.vercel.app/) ***rp**
 
 ## Code Fusion - oct 2023 - present
-- Ecommerce Admin Dashboard 🏪 - [view](https://ecommerce-admin-ten-iota.vercel.app/) ***rp**
-- Ecommerce Store - [view](https://store-nextjs-pi.vercel.app/) ***rp**
+- Ecommerce Admin Dashboard 🏪 - [view](https://ecommerce-admin-ten-iota.vercel.app/) ***ind** ***rp**
+- Ecommerce Store - [view](https://store-nextjs-pi.vercel.app/) ***ind** ***rp**
 - WLG Distribuidor Pet 🐶 - [view](https://wlgdistribuidorpet.com.br/) ***rp**
