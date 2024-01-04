@@ -3,20 +3,18 @@
 ### Below are the projects, listed based on the courses I have taken during my dev journey.
 
 ## Tech stack
-- ### **<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="20" width="20"> HTML**
-
-- ### **<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="20" width="20"> CSS** & **<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="20" width="20"> Tailwind**
+- ### **<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="20" width="20"> HTML** **<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="20" width="20"> CSS** & **<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="20" width="20"> Tailwind**, ShadcnUI
 
 - ### **<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="20" width="20"> Javascript**, **<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" height="20" width="20"> Webpack** & **<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="20" width="20"> React**
 
-- ### **<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="20" width="20"> NPM**
+- ### Jest, **<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="20" width="20"> NPM**
 - ### **Next.js** e **<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="20" width="20"> NodeJS**
 - ### Supabase, MySQL, MariaDB, MongoDB, Prisma
 
 - ### **<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="20" width="20"> Git & <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="20" width="20"> Github**
 
 # Projects
-> The projects are listed chronologically (oldest to newest) ⌛
+> The projects are listed by the most correlation with the activity / course ⌛
 
 > *ind - independent projects 
 
