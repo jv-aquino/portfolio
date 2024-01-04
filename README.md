@@ -10,7 +10,8 @@
 - ### **<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="20" width="20"> Javascript**, **<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" height="20" width="20"> Webpack** & **<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="20" width="20"> React**
 
 - ### **<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="20" width="20"> NPM**
-- ### **<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="20" width="20"> NodeJS**
+- ### **Next.js** e **<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="20" width="20"> NodeJS**
+- ### Supabase, MySQL, MariaDB, MongoDB, Prisma
 
 - ### **<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="20" width="20"> Git & <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="20" width="20"> Github**
 
@@ -46,6 +47,7 @@
 - [Restaurant Page 🍽](https://github.com/jv-aquino/Restaurant-Page/) - [view](https://jv-aquino.github.io/Restaurant-Page/dist/)
 - [Todo List 📆](https://github.com/jv-aquino/Todo-List) - [view](https://jv-aquino.github.io/Todo-List/) ***rp**
 - [Arduino JS 🤖](https://github.com/jv-aquino/Arduino-Javascript) - [view](https://jv-aquino.github.io/Arduino-Javascript/) ***ind** ***rp**
+- [Battleship 🚢](https://github.com/jv-aquino/Battleship)
 
 ## FEG Internship - nov 2022 - oct 2023
 - [Transparência de Compras 🛍](https://github.com/jv-aquino/Transparencia-Compras) - [view](https://transparencia-compras.vercel.app/) ***rp**
